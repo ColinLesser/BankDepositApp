@@ -15,7 +15,7 @@ public class BankDeposit
 
       int total = 0; //declare grand total variable
       int cashTotal = cash(); //declare variable to return method
-      int checkTotal = check(); //dclare variable to return method
+      int checkTotal = check(); //declare variable to return method
       String address = "**ENTER ADDRESS**";
       String accountNum = "**ENTER ACCOUNT NUMBER**";
       
